@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-carsxe",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "CarsXE MCP — wraps the CarsXE Vehicle Data API (carsxe.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-2aa8353dc9c1ede17c62f1dd429aecd0ae18555cacf25a288826aee963afe3e0",
-    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
+    "sourceHash": "v1-ed692de84e45c466288ec959c5871f9fa4cbf8565c27847d9e64928ea700d0dd",
+    "sourceCommit": "5d8d3a58a457b8464c117515d81b8b6ecb53fdfb"
   }
 }
